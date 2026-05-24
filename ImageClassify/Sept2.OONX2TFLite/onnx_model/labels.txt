@@ -1,0 +1,3 @@
+supplies
+vehicle
+weapon

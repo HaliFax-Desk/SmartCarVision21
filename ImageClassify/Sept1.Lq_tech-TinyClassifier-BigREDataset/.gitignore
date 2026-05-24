@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+artifacts/*.pnnx.*
+artifacts/*_ncnn.py
+artifacts/*_pnnx.py
+
+board_pack/test_images/
+board_pack/deploy_cls/test_images/
+
+*.zip
+tools/

@@ -1,0 +1,22 @@
+{
+  "sample_size": 300,
+  "seed": 42,
+  "accuracy": 0.89,
+  "per_class": {
+    "supplies": {
+      "correct": 105,
+      "total": 122,
+      "accuracy": 0.860655737704918
+    },
+    "vehicle": {
+      "correct": 75,
+      "total": 76,
+      "accuracy": 0.9868421052631579
+    },
+    "weapon": {
+      "correct": 87,
+      "total": 102,
+      "accuracy": 0.8529411764705882
+    }
+  }
+}
